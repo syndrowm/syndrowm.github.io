@@ -1,1 +1,7 @@
-{"google":"","tagline":"","name":"syndrowm.github.com","body":"### Ninja Stuffs\r\nWith some other ninja stuff\r\n\r\n```python\r\ndef hi():\r\n    print \"Hello\"\r\n```","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "www.syndrowm.com",
+  "tagline": "",
+  "body": "### Ninja Stuffs\r\nWith some other ninja stuff\r\n\r\n```python\r\ndef hi():\r\n    print \"Hello\"\r\n```",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
