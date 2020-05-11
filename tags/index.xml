@@ -6,9 +6,19 @@
     <description>Recent content in Tags on syndrowm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 15:08:05 -0600</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hello-world</title>
+      <link>/tags/hello-world/</link>
+      <pubDate>Sun, 10 May 2020 15:08:05 -0600</pubDate>
+      
+      <guid>/tags/hello-world/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
